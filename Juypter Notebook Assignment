@@ -1,0 +1,217 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<center>\n",
+    "    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n",
+    "</center>\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "#### Add your code below following the instructions given in the course\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    " # \"My Jupyter Notebook on IBM Watson Studio\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**Name: Phyu Kyaw**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    " \"I am interested in data science because it helps to do effective analysis and action\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "python aggregate function "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "2\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(1+1)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**List of Data Science Language**\n",
+    "1. _R_\n",
+    "2. _Python_\n",
+    "3. _SQL_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**List of Data Science Library**\n",
+    ">* Pandas\n",
+    ">* Numpy\n",
+    ">* Matplotlib\n",
+    ">* ~SQL~"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "| SN | DS_Tool |\n",
+    "| -- | ------- |\n",
+    "| 1  | SPSS    |\n",
+    "| 2  | juypter |\n",
+    "| 3  | Apache  |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "agregate functions of python\n",
+    "+ is used for sum up\n",
+    "* is used for multiplication"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "10"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(1+4)*2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1.1\n"
+     ]
+    }
+   ],
+   "source": [
+    "min = 66\n",
+    "hr=min/60    \n",
+    "print(hr)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def min_hr(min):\n",
+    "    return(min/60)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.6666666666666667"
+      ]
+     },
+     "execution_count": 23,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "min_hr(100)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## **Objective:**\n",
+    "\n",
+    "0. Creating a Jupyter Notebook using Skills Network LTI item or Watson Studio environment.\n",
+    "1. Create Mardown Cells."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/FinalModule_Coursera/Final_Instruction_toolforDS.md.html?origin=www.coursera.org#:~:text=Author(s),Romeo%20Kienzler"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
